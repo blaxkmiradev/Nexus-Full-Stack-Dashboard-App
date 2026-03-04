@@ -90,8 +90,8 @@ nexus/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nexus.git
-cd nexus
+git clone https://github.com/blaxkmiradev/Nexus-Full-Stack-Dashboard-App.git
+cd Nexus-Full-Stack-Dashboard-App
 ```
 
 ---
