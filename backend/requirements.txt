@@ -1,0 +1,6 @@
+flask>=3.1.0
+flask-cors>=6.0.0
+flask-jwt-extended>=4.7.0
+bcrypt>=5.0.0
+python-dotenv>=1.2.0
+PyJWT>=2.11.0
